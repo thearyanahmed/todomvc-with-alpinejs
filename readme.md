@@ -2,6 +2,8 @@
 
 *Let us [know](https://github.com/tastejs/todomvc/issues) if you discover anything worth sharing.*
 
+![](https://github.com/tastejs/todomvc-app-css/raw/master/screenshot.png)
+
 
 ## Implementation
 
