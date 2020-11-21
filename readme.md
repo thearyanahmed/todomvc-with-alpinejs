@@ -1,4 +1,4 @@
-# TodoMVC with Alpine js • [TodoMVC](http://todomvc.com)
+# TodoMVC with Alpine js | [TodoMVC](http://todomvc.com)
 
 *Let us [know](https://github.com/tastejs/todomvc/issues) if you discover anything worth sharing.*
 
